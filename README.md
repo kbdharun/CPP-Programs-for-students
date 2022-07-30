@@ -7,7 +7,7 @@
 
 - Ubuntu: `sudo apt install build-essential`
 - Fedora: `sudo dnf install g++`
-- Most distros bundle gcc and g++ by default. 
+- Most distros bundle gcc and g++ by default, so a seperate installation isn't required. 
 
 ### Compiling a CPP program in g++
 
