@@ -19,6 +19,7 @@
 - After a successful compilating, an output binary file will be created which is `a.out` by default. 
 - You can also provide your own custom output name by adding `-o` flag at the end of g++ command. For example, `g++ filename.cpp -o filename`. Now the binary will be created in a custom filename.
 - To run the binary files just type `./a.out` or `./binaryname`. 
+- We can also choose a language standard to compile the program for (C++98/C++11/C++14/C++17).
 
 
 #### Contribute to this repository by adding your own programs by creating pull requests. 
