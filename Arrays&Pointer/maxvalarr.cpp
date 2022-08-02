@@ -1,7 +1,6 @@
 //C++ Program to find maximum value of element by passing array//
 #include <iostream>
 using namespace std;
-
 int main() {
   int i, n;
   float arr[100];
@@ -22,4 +21,3 @@ int main() {
   cout << endl << "Largest element = " << arr[0]<<endl;
   return 0;
 }
-
