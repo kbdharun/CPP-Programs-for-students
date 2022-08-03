@@ -1,4 +1,4 @@
-## C++ Programs for College Students
+## C++ Programs for College Students ⌨️
 
 - This repository contains essential C++ programs for college students. 
 - We recommend compiling the C++ programs using g++ in GNU/Linux.
@@ -23,3 +23,26 @@
 
 
 #### Contribute to this repository by adding your own programs by creating pull requests. 
+
+### Writing and compiling Hello World C++ Program
+
+- We can write the program in an IDE or text editor of choice. 
+- Example code:
+```c++
+/*helloworld.cpp*/
+#include<iostream> //header file
+using namespace std; //for using cin,cout commands without std:: tags
+int main()
+{
+cout<<"Hello World"<<endl; 
+}
+```
+- To create for the output for file we need compile it using a compiler like GCC,etc.
+- Open Terminal in Linux and `cd` into the file's directory.
+- Type `g++ helloworld.cpp` or `c++ helloworld.cpp` and enter this will create an `a.out` binary file. 
+- For creating an output file with cutstom name use `g++ helloworld.cpp -o helloworld`.
+- Now we can run the binaries using `./a.out` or `./helloworld`
+- Output
+```
+Hello World
+```
