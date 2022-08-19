@@ -1,7 +1,7 @@
 ## C++ Programs for College Students ⌨️
 
 - This repository contains essential C++ programs for college students. 
-- We recommend compiling the C++ programs using g++ in GNU/Linux.
+- I recommend compiling the C++ programs using g++ in GNU/Linux.
 
 ### Installing g++ in Linux
 
@@ -21,15 +21,13 @@
 - To run the binary files just type `./a.out` or `./binaryname`. 
 - We can also choose a language standard to compile the program for (C++98/C++11/C++14/C++17).
 
-
-#### Contribute to this repository by adding your own programs by creating pull requests. 
-
 ### Writing and compiling Hello World C++ Program
 
 - We can write the program in an IDE or text editor of choice. 
 - Example code:
 ```c++
 /*helloworld.cpp*/
+
 #include<iostream> //header file
 using namespace std; //for using cin,cout commands without std:: tags
 int main()
@@ -46,3 +44,20 @@ cout<<"Hello World"<<endl;
 ```
 Hello World
 ```
+
+### About this project
+
+- This repository contains the C++ programs I worked on in college. I created this repository with essential programs segregated topicwise with documentation on compiling the programs to help students write better programs. I will keep this repository open for contributions in the future.
+
+### Contribute 
+
+- You can contribute to this repository by adding your own programs by creating pull requests. 
+
+### Suggested Resources
+
+1. <https://www.w3schools.com> .
+2. <https://www.geeksforgeeks.org> .
+3. <https://www.tutorialspoint.com> .
+4. <https://github.com/EbookFoundation/free-programming-books> .
+
+Note:- This list isn't actively maintained. More resources are available online on various platforms. 
