@@ -26,6 +26,7 @@
 - You can write this program in any IDE or text editor of choice. 
 
 - Example code:-
+
 ```cpp
 /*helloworld.cpp*/
 
@@ -43,6 +44,7 @@ cout<<"Hello World"<<endl;
 - For creating an output file with cutstom name use `g++ helloworld.cpp -o helloworld`.
 - Now we can run the binaries using `./a.out` or `./helloworld`
 - **Output in the terminal would be:-**
+
 ```
 Hello World
 ```
