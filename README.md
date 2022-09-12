@@ -26,7 +26,7 @@
 - You can write this program in any IDE or text editor of choice. 
 
 - Example code:-
-```c++
+```cpp
 /*helloworld.cpp*/
 
 #include<iostream> //header file
