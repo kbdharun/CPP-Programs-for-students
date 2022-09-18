@@ -41,7 +41,6 @@ TIME sum(TIME a,TIME b){
     l.hrs = l.hrs + 1;
   }
   return l;
-  
 }
 };
 int main()
