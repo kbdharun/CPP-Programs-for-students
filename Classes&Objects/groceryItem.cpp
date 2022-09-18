@@ -47,7 +47,6 @@ void enter_price(){
     }
   }
   price = x;
-  
 }
 void enter_qt(){
   int x;
@@ -82,7 +81,6 @@ void display(){
   cout<<"\nStock QT: "<<qt;
   cout<<"\nThe total number of Cost: "<<total_value<<endl;
 }
-
 
 };
 int main(){

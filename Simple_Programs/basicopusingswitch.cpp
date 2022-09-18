@@ -40,8 +40,7 @@ int main()
 				cout << "The Division of given numbers is \n";
 				cout << c;
 				return 0;
-			}
-			
+			}		
 	}
 	while (!0);
 }

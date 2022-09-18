@@ -42,10 +42,7 @@ void get()
 	{
 	cin>>x1>>y1;
 	}
-Value()
-{
-
-}	
+Value(){}
 	
 operator Num()
 	{

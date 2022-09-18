@@ -5,6 +5,7 @@ class conversion{
 long pounds;
 int shilings;
 int pence;
+
 public:
 conversion(){}
 conversion(int pds){
@@ -68,7 +69,6 @@ conversion operator / (double a){
 operator double(){
   return pounds;
 }
-
 };
 int main(){
   conversion a1(10,20,30),a2,a3,a4,a5,a6,a7,a8;

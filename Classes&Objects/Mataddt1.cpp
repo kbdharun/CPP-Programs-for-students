@@ -34,8 +34,7 @@ int a[10][10];
 				cout<<a[i][j]<<endl;
 			}
 			}			
-		}	
-	
+		}
 };
 
 main()

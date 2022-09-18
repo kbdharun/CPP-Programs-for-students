@@ -13,7 +13,6 @@ int main() {
   }
   // Loop to store largest number to arr[0]
   for(i = 1;i < n; ++i) {
-
     // Change < to > if you want to find the smallest element
     if(arr[0] < arr[i])
       arr[0] = arr[i];

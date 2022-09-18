@@ -11,7 +11,6 @@ class base1
     {
         cout<<"base class1:";
     }
-    
 };
 class base2
 {
