@@ -3,7 +3,6 @@
 using namespace std;
 
 class matrix {
-
 	/* Declaration  */
 	int a[3][3], b[3][3], ans[3][3];
 

@@ -1,9 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include<cstring>
-
 using namespace std;
-
 
 int main()
 {
@@ -22,22 +20,17 @@ int main()
         {                   
           getline (openfile,getcontent);//
           cout << getcontent << endl; // these two lines alone in a while loop display ALL records
-          
-          
-        
-        if(search == getcontent ) // this was my theory for searching records but does not display anything to the console
-         {
-        cout << getcontent << endl;
+            
+         if(search == getcontent ) // this was my theory for searching records but does not display anything to the console
+            {
+         cout << getcontent << endl;
+            }
          }
-    
-        }
-        openfile.close();
-    
-     }
-     else
-         {
-         cout << "File error\n";
-         }
-  
+         openfile.close();
+      }
+      else
+          {
+           cout << "File error\n";
+          }
    return 0;
 }

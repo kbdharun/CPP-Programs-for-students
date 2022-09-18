@@ -11,6 +11,7 @@ class Interest{
     float p,r;
     double i;
 	public:
+	
 	Interest(){}
 	~Interest(){};
 	void Get()

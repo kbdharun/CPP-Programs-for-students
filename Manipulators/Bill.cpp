@@ -29,5 +29,4 @@ int main(){
     cout<<setw(53)<<setfill('*')<<""<<endl;
     cout<<setw(36)<<setfill(' ')<<"Total Amount to be paid "<<total<<setw(18)<<" "<<endl;
     cout<<setw(53)<<setfill('*')<<""<<endl;
-
 }
