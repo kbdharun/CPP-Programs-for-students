@@ -1,6 +1,5 @@
 # C++ Programs for College Students ⌨️
 
-[![CodeFactor](https://www.codefactor.io/repository/github/kbdharun/cpp-programs-for-students/badge/main)](https://www.codefactor.io/repository/github/kbdharun/cpp-programs-for-students/overview/main)
 [![Deploy Webpage](https://github.com/kbdharun/CPP-Programs-for-students/actions/workflows/pages.yml/badge.svg)](https://github.com/kbdharun/CPP-Programs-for-students/actions/workflows/pages.yml)
 
 - This repository contains essential C++ programs for college students.
